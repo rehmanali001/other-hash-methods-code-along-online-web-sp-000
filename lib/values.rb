@@ -10,5 +10,5 @@ require 'pry'
 
 def get_the_values(groceries)
   #code your solution here!
-  groceries.values.start_with?("a-z")
+  groceries.values.start_with?(
 end
