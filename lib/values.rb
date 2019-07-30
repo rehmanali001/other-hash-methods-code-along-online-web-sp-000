@@ -10,5 +10,5 @@ require 'pry'
 
 def get_the_values(groceries)
   #code your solution here!
-  groceries.values.sort(a-z)
+  groceries.values.sort("a"-"z")
 end
